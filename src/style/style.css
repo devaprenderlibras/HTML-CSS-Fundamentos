@@ -1,17 +1,11 @@
+
+
 .titulo {
     color: rgb(0, 105, 128);
 }
 
-.link {
-    color: black;
-    text-decoration: none;
+h1 {
+    color: brown;
 }
 
-.link:hover {
-   color: red;
-   background-color: black; 
-}
 
-.link:visited {
-    color: green;
-}
