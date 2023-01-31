@@ -2,4 +2,5 @@
     background-color: aqua;
     padding: 50px;
     display: inline-block;
+    border: 10px solid green;
 }
