@@ -2,6 +2,12 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Inicio Cabeçalho */
 .cabecalho {
     padding: 50px 0;
     display: flex;
@@ -15,3 +21,26 @@
     font-size: 14px;
     font-weight: 400;
 }
+
+
+/* Inicio Main Content */
+.main-content {
+    background-color: #F5F5F5;
+    padding: 100px 0;
+}
+
+.card {
+    max-width: 370px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card h2 {}
+
+.card h3 {}
+
+.card p {}
+
+.card button {}
