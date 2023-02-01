@@ -27,6 +27,10 @@ body {
 .main-content {
     background-color: #F5F5F5;
     padding: 100px 0;
+    display: grid;
+    grid-template-columns: repeat(2, 370px);
+    justify-content: center;
+    gap: 50px;
 }
 
 .card {
