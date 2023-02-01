@@ -1,5 +1,18 @@
 .secao-texto {
     color: brown;
+    border: solid 1px black;
+    font-weight: bold;
 }
 
+p {
+    border: inherit;
+}
 
+h2 {
+    border: inherit;
+}
+
+button {
+    color: inherit;
+    font-weight: inherit;
+}
