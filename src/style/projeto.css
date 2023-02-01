@@ -37,10 +37,32 @@ body {
     width: 100%;
 }
 
-.card h2 {}
+.card h2 {
+    font-size: 15px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-bottom: 3px;
+}
 
-.card h3 {}
+.card h3 {
+    color: #F52273;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
 
-.card p {}
+.card p {
+    font-size: 14px;
+    color: #6C6767;
+    margin-bottom: 30px;
+}
 
-.card button {}
+.card button {
+    background-color: #F52273;
+    color: #fff;
+    padding: 16px 33px;
+    font-size: 15px;
+    font-weight: 900;
+    border: none;
+}
