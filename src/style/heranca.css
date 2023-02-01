@@ -2,10 +2,13 @@
     color: brown;
     border: solid 1px black;
     font-weight: bold;
+    font-size: 1rem;
 }
 
 p {
     border: inherit;
+    color: initial;
+    font-size: initial;
 }
 
 h2 {
